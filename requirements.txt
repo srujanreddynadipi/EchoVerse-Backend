@@ -1,0 +1,11 @@
+Flask==2.3.3
+Flask-CORS==4.0.0
+ibm-watson==7.0.1
+ibm-cloud-sdk_core==3.16.7
+requests==2.31.0
+python-dotenv==1.0.0
+pymysql==1.1.0
+mysql-connector-python==8.2.0
+bcrypt==4.0.1
+huggingface-hub==0.17.3
+transformers==4.35.0
